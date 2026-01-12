@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://casinogranvia-online.com/
+Sitemap: https://casinogranvia-online.com/sitemap.xml

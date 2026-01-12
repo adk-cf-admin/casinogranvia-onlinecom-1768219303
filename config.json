@@ -1,0 +1,199 @@
+{
+    "es-ES": {
+        "styles": {
+            "bg": "#FFFFFF",
+            "lang-select-color": "#222829",
+            "bg-light": "#222829",
+            "welcome-bonus-bg": "#FFFFFF",
+            "top-games-hover-fg": "#222829",
+            "main-bg": "#FBF4EE",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#AE8C6A",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#af6a85",
+            "yellow": "#AE8C6A",
+            "yellow-button": "#af6a85",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#b5b5b5",
+            "casino-cards": "#ffffff",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#AE8C6A",
+            "faq-label": "#ffffff",
+            "bg-footer": "#222829",
+            "copyright": "#e7e7d5",
+            "starColor": "#AE8C6A",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Casino Gran Vía Madrid",
+            "title": "Casino Gran Vía Madrid: ruleta, póker, slots, bares, hotel y eventos",
+            "description": "Descubre Casino Gran Vía en pleno centro de Madrid: ruleta, blackjack, bacará, torneos de póker y una zona moderna de máquinas. Consulta código de vestimenta, horarios, formas de pago, ocio, bares y opciones de descanso para planificar una noche perfecta.",
+            "canonical": "casinogranvia-online.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1521",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "casinogranvia-online.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1522",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1523"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1525",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Casino Gran Vía Madrid Logo"
+        },
+        "nav": {
+            "signUp": "Registrarse",
+            "playNow": "Jugar ahora"
+        },
+        "hero": {
+            "title": "Casino Gran Vía Madrid — juegos, póker, bares y ambiente en el centro",
+            "textDesktop": "Oferta exclusiva de bienvenida de",
+            "textMobile": "Oferta exclusiva de bienvenida de",
+            "playGame": "Jugar",
+            "claimBonus": "Reclamar bono",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1526",
+            "imageSizeModifier": 0,
+            "imageYModifier": -3,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1527",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 1,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": " Reclamar bono",
+            "title": " Reclamar bono ",
+            "allCasino": "Todos los casinos",
+            "welcomeBonusText": " Bono de bienvenida"
+        },
+        "bonusDetails": {
+            "title": "Detalles de bonificación",
+            "getBonusButtonText": "Obtener bono",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonos",
+            "rate": "Rate",
+            "freeSpins": "Giros gratis",
+            "moreInfo": "Más info",
+            "get": "Conseguir",
+            "refresh": "Refrescar"
+        },
+        "advantages": {
+            "title": "Ventajas",
+            "advantagesBeforeText": "",
+            "items": [
+                "Altas probabilidades de grandes premios",
+                "Generosos bonos para nuevos jugadores",
+                "Promociones diarias y ofertas especiales",
+                "Amplia selección de juegos de mesa",
+                "Wide range of games"
+            ],
+            "advantagesAfterText": "Casino Gran Vía combina emoción, comodidad y elegancia. Cada visitante disfruta de una experiencia única gracias a la variedad de juegos y atractivos beneficios.\n",
+            "knowMore": "Saber más",
+            "appTitle": "Casino Gran Vía App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1528",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Casino Gran Vía App",
+            "mobileGooglePlayImageTitle": "Casino Gran Vía App",
+            "mobileIosImageTitle": "Casino Gran Vía App"
+        },
+        "games": {
+            "playNowText": "Jugar ahora",
+            "title": " Los mejores juegos",
+            "allGames": " Todos los juegos"
+        },
+        "about": {
+            "history": {
+                "title": "Acerca de Casino Gran Vía",
+                "description1": "El casino se diferencia por su ambiente de palacio histórico y salas llamativas. Además, permite unir juego, coctelería y cena tardía en un mismo plan.\n",
+                "items": [
+                    "Bote hasta €20 000+.",
+                    "Torneos con premios €5 000+.",
+                    "Giros gratis valor €10–€50."
+                ],
+                "description2": "Casino Gran Vía es un casino urbano en pleno centro de Madrid, donde los juegos clásicos se mezclan con el encanto de un edificio histórico. El interior transmite un estilo solemne y cuidado en cada detalle. \n",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1529",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "Es fácil empezar la noche con una copa y pasar después a las salas de juego. La oferta se apoya en ruleta, juegos de cartas, póker y una zona moderna de máquinas. El ritmo nocturno encaja con quienes buscan un plan con energía y ambiente. El personal suele mantener una atención constante y resolver dudas habituales. En las zonas de bar es sencillo hacer una pausa entre partidas y cambiar de tono. Sus espacios también se prestan a eventos y noches temáticas. Para muchos visitantes, forma parte natural del recorrido por el centro. La propuesta general es un ocio elegante en el que juego y descanso se complementan."
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": " Casino Gran Vía — una noche con estilo madrileño",
+                "description": "<p>\nCasino Gran Vía se percibe como un lugar donde el juego encaja de forma natural en el ambiente de un edificio histórico. El estilo interior apuesta por una “clásica elegancia urbana”: escaleras llamativas, espacios altos, luz cálida y sensación de ceremonia. No es un entorno frío, sino festivo, pensado para jugar y disfrutar. Las salas permiten pasar de zonas tranquilas a otras más dinámicas sin agobios.\n\n<\/p>\n<br>\n\n\n<p>\nEn cuanto a horarios, es una opción cómoda para el ocio nocturno: las máquinas suelen estar disponibles desde la mañana hasta bien entrada la noche, y los juegos de mesa en vivo acostumbran a activarse a partir de la tarde y seguir hasta el cierre. Ese ritmo facilita planificar la visita tanto para una parada breve como para una noche completa. En horas punta hay movimiento y energía, mientras que a última hora el ambiente se vuelve más íntimo. Por eso encaja tanto con principiantes como con jugadores habituados.\n\n<\/p>\n<br>\n<p>\nLa parte de bares es clave, porque aquí es habitual alternar partidas y pausas. Dentro aparecen formatos de coctelería, bar asociado a la zona de póker y un bar con aire “panorámico” que acompaña el pulso del centro. Bebidas y picoteo ayudan a mantener un ritmo cómodo sin romper la experiencia. Muchos visitantes empiezan por el bar para entrar en ambiente y luego eligen el juego.\n\n<\/p>\n<br>\n<p>\nEl componente hotelero aporta comodidad a viajeros y a quienes prefieren no depender del transporte al final de la noche. El alojamiento suele sentirse como un formato adulto, tranquilo y orientado a la privacidad. Es una solución práctica para unir paseo urbano, cena y casino sin traslados largos. En escapadas cortas, este tipo de plan resulta especialmente eficiente.\n\n<\/p>\n<br>\n<p>\nLos eventos forman parte natural del espacio: las salas funcionan bien para celebraciones privadas, encuentros de empresa y programas temáticos. En ciertos periodos el foco se traslada al póker, con días de torneo, formatos especiales y un ambiente más animado. También son habituales las noches con música y un toque “de club” en zonas de bar. Así, Casino Gran Vía se vive como un centro nocturno completo, no solo como un lugar para jugar.\n\n<\/p>\n<br>\n<p>\nLas promociones y programas de ventajas suelen basarse en la frecuencia de visita y la actividad de juego. En la práctica se traducen en ofertas para clientes habituales, acciones estacionales y beneficios que pueden aplicarse al juego o a servicios asociados. Es común ver detalles de cumpleaños, invitaciones a veladas especiales o privilegios extra en jornadas de torneo. Ese enfoque refuerza la sensación de pertenencia y hace que repetir visita sea más atractivo.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nServicio y pagos en Casino Gran Vía — cómo funciona\n<\/h3>\n\n<p>\nEl personal de Casino Gran Vía suele operar con un enfoque de premium urbano: en la entrada orientan sobre normas básicas, en las salas controlan el orden y el ritmo, y en barras mantienen un servicio cómodo. Los crupieres en mesa trabajan con un ritmo ágil pero claro, algo clave para quien empieza. En horas de mayor afluencia el trato puede sentirse más formal, y a última hora más relajado, sin perder corrección. La experiencia se apoya en discreción, seguridad y control tranquilo.\n\n<\/p>\n<br>\n\n\n<p>\nEn idiomas, lo habitual es contar con español e inglés, y en momentos turísticos es frecuente encontrar apoyo para peticiones sencillas en otros idiomas populares. En juego, la mayoría de procedimientos se basan en términos estándar, por lo que es fácil seguir la dinámica incluso con vocabulario limitado. Ante dudas, el equipo suele explicar con frases cortas para no frenar la partida. Para torneos, reservas o visitas de grupo, lo más práctico es gestionar en el propio punto de información.\n\n<\/p>\n<br>\n<p>\nLa moneda de referencia es el euro, tanto para juego como para restauración. En casinos urbanos de este perfil suelen aceptarse efectivo y tarjetas, aunque algunos servicios pueden tener reglas internas de límites. Si planeas jugar con intensidad, conviene llevar efectivo para cambios rápidos y tarjeta para recargas. En caja suelen facilitar las operaciones de compra de fichas y cierre de cuenta.\n\n<\/p>\n<br>\n<p>\nLos cajeros y la gestión de efectivo se organizan para que el cliente no tenga que salir del entorno durante mucho tiempo. En la zona céntrica normalmente es fácil localizar un cajero, y dentro se suelen contemplar alternativas para acceder a efectivo mediante servicios bancarios habituales. El cambio de divisa, en formato urbano, suele resolverse mejor en bancos o casas de cambio del centro, por lo que a los visitantes les conviene llegar ya con euros. Si vienes con otra moneda, es recomendable cambiar antes para no perder tiempo en plena noche.\n\n<\/p>\n<br>\n<p>\nEl cobro de premios en casinos presenciales suele ser directo: al terminar, las fichas se canjean en caja por efectivo o se tramita un pago siguiendo el procedimiento interno si la cuantía es alta. Para importes grandes pueden solicitar documento y definir el método de entrega por seguridad y cumplimiento financiero. En torneos de póker, los premios se reparten según estructura y se abonan al cierre del evento mediante caja u organización. Es importante conservar justificantes, especialmente si prevés mover cantidades relevantes.\n\n<\/p>\n<br>\n<p>\nLa fiscalidad de los premios depende del estatus del jugador y de la normativa aplicable, además de si se es residente o no. Para el visitante, lo esencial es saber que el casino puede exigir identificación en pagos elevados y emitir documentación conforme a sus requisitos. Si se trata de un premio importante, es sensato consultar con un asesor cómo declararlo en el país de residencia. A nivel práctico: lleva documento, guarda comprobantes y planifica un traslado seguro del dinero.\n\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nNormas de acceso a Casino Gran Vía — vestimenta, entrada y cómo llegar\n<\/h3>\n\n<p>\nCasino Gran Vía mantiene un formato de “noche urbana elegante”, por lo que cuida la imagen y el comportamiento. En la entrada suele exigirse documento para acreditar la edad, y el acceso a menores está restringido. Dentro es importante mantener un tono tranquilo, respetar la dinámica del juego y seguir indicaciones del personal. La foto y el vídeo en zonas de juego suelen estar limitados por privacidad. En mesas es habitual que pidan no usar el móvil durante apuestas y manos. La entrada en estado de embriaguez evidente normalmente no se acepta y puede implicar denegación. Bolsos grandes pueden pasar por control adicional o guardarse en guardarropa. En restauración pueden aplicarse normas de reserva, especialmente por la noche. Fumar suele permitirse solo en áreas señalizadas. Para una visita cómoda, conviene llegar antes de la hora punta para pasar el control con calma. Llegar en metro o a pie desde el centro suele ser lo más práctico, y en coche conviene usar parkings cercanos.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCódigo de vestimenta\n\n\n<\/h4>\n\n <ul>\n            <li>• \nSmart casual: calzado correcto, ropa cuidada, sin estilo de playa.\n\n<\/li>\n            <li>• \nNo recomendado: chándal, pantalón corto, chanclas, prendas con mensajes agresivos.\n\n<\/li>\n            <li>• \nPor la noche, mejor un punto más formal: camisa y chaqueta opcionales.\n\n\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCondiciones de acceso\n\n\n<\/h4>\n\n <ul>\n            <li>• \nEdad: normalmente 18+.\n\n<\/li>\n            <li>• \nDocumentación: pasaporte o DNI equivalente.\n\n<\/li>\n            <li>• \nControl: revisión de seguridad estándar en la entrada.\n\n\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nProhibiciones y límites\n\n\n<\/h4>\n\n <ul>\n            <li>• \nGrabación en salas de juego sin permiso.\n\n<\/li>\n            <li>• \nUso activo del móvil en mesa durante la acción.\n\n<\/li>\n            <li>• \nConductas agresivas o interferir en el juego de otros.\n\n<\/li>\n            <li>• \nAlgunos objetos pueden estar restringidos por seguridad.\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nParking y transporte\n\n\n<\/h4>\n\n <ul>\n            <li>• \nMetro: estaciones céntricas en el entorno Gran Vía\/Callao\/Sol.\n\n<\/li>\n            <li>• \nAutobuses: útiles las líneas nocturnas del centro.\n\n<\/li>\n            <li>• \nCoche: mejor parkings de pago cercanos por la alta afluencia.\n\n<\/li>\n            <li>• \nA pie: encaja perfecto con paseo por el centro y zona de teatros.\n<\/li>\n\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPrograma de fidelidad de Casino Gran Vía — niveles, bonos y ventajas\n<\/h3>\n\n<p>\nUn programa de fidelidad en un casino de este estilo suele funcionar como un “club de cliente habitual”, donde los beneficios crecen con la actividad. La idea es sencilla: te registras, obtienes un perfil y comienzas a acumular puntos por juego y visitas. Los puntos se convierten en bonos de juego, invitaciones a eventos o ventajas en zonas de bar y restauración. A menudo existen propuestas específicas en días de torneos de póker y en periodos estacionales con más afluencia. Para facilitarlo, el sistema puede operar con tarjeta digital o registro interno, sin necesidad de llevar plástico. Los niveles aportan acceso más rápido a atenciones y prioridad, especialmente por la noche. Cuanto más alto el nivel, más visibles las ventajas: desde fichas promocionales hasta mejores condiciones en eventos. También se valora mucho el detalle de cumpleaños y los premios por regularidad. Para jugadores activos, lo más práctico es el canje de puntos o el cashback, que añade valor real a cada visita. Usado con criterio, el club hace que el ocio sea más rentable y ordenado. Conviene tener en cuenta que condiciones y campañas pueden variar según día y tipo de juego.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCondiciones de registro\n\n\n<\/h4>\n\n <ul>\n            <li>• \nSer mayor de 18 años y presentar documento.\n\n<\/li>\n            <li>• \nCompletar alta en el punto de atención al cliente.\n\n<\/li>\n            <li>• \nAceptar normas internas y pautas de juego responsable.\n\n<\/li>\n            <li>• \nActivación del perfil el mismo día, con posible bono inicial.\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCómo se acumulan puntos \n<\/h4>\n\n <ul>\n            <li>• \nSlots: 1 punto por cada €10 apostados.\n\n<\/li>\n            <li>• \nRuleta\/mesa: 1 punto por cada €20 de apuesta media por hora.\n\n<\/li>\n            <li>• \nPóker: puntos por rake\/participación en torneos (p. ej., 1 punto por €5 de comisión).\n\n<\/li>\n            <li>• \nExtra: +10–20% de puntos en días de torneo o festivos.\n<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nNiveles y cómo lograrlos\n<\/h4>\n\n <ul>\n            <li>• \nBronze: 0–199 puntos — ventajas base y ofertas de inicio.\n\n<\/li>\n            <li>• \nSilver: 200–699 puntos — mejor canje y promos prioritarias.\n\n<\/li>\n            <li>• \nGold: 700–1499 puntos — bonos aumentados e invitaciones.\n\n<\/li>\n            <li>• \nPlatinum: 1500–2999 puntos — límites ampliados y ofertas personalizadas.\n\n<\/li>\n\t    <li>• \nVIP: 3000+ puntos — condiciones individuales y eventos privados.\n\n\n\n\n<\/li>\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBonos y ventajas\n<\/h4>\n\n <ul>\n            <li>• \nBono de bienvenida: €10–€30 en juego promocional o fichas para empezar.\n\n<\/li>\n            <li>• \nCanje de puntos: 100 puntos = €5–€10 para juego (según campaña del día).\n\n<\/li>\n            <li>• \nCashback: 5% (Silver), 8% (Gold), 12% (Platinum), hasta 15% (VIP) en días seleccionados.\n\n<\/li>\n            <li>• \nCumpleaños: detalle de €20–€50 y\/o consumición de cortesía.\n\n<\/li>\n\t    <li>• \nVentajas de torneos: descuento de €10–€30 en buy-in o rebuy promocional.\n\n<\/li>\n\t    <li>• \nBares y restaurante: 10–20% de descuento en productos seleccionados por franjas horarias.\n\n<\/li>\n\n\t    <li>• \nEventos: invitaciones, prioridad de acceso y welcome-drink.\n\n<\/li>\n\t    <li>• \nServicio: entrada más ágil en hora punta y apoyo con reservas (Gold+).\n\n<\/li>\n        <\/ul><br>\n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Proveedores de software"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entretenimiento y juegos e Casino Gran Vía",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonos y promociones en Casino Gran Vía — ofertas, premios y eventos de temporada\n<\/h3>\n\n<p>\nAdemás del club de fidelidad, en Casino Gran Vía suelen aparecer campañas que convierten la visita en un plan más “de evento”. Estas ofertas a menudo se ligan a días concretos, zonas de juego o periodos de torneos. En slots son habituales sorteos, mini botes y campañas de tiradas que aportan emoción incluso con apuestas moderadas. En mesas, lo más común son propuestas de “noche larga”, con fichas promocionales o créditos extra cuando se alcanza cierta actividad. En póker, el motor son las series: jornadas con premios añadidos y formatos pensados para distintos niveles. Para quienes buscan ambiente, destacan acciones de bar, menús tardíos y noches con música de estilo club. Los eventos estacionales refuerzan el efecto festivo con decoración, coctelería especial y programación nocturna. En momentos de alta afluencia en el centro, se activan planes más completos para ofrecer una noche “resuelta”. También pueden existir promos para grupos, con paquetes combinados de consumo y ocio. Para la comodidad, a veces se añaden ventajas vinculadas a parkings cercanos o detalles por acudir temprano. La idea general es ampliar la experiencia más allá de la apuesta. Para aprovechar mejor, conviene seguir el calendario de torneos y la actividad nocturna de bar.\n\n<\/p>\n<br>\n\n<ul>\n            <li>• \nBotes y mini sorteos en slots: premios de €1 000–€20 000 según mecánica del día.\n\n<\/li>\n            <li>• \nPaquetes de giros gratis: valor €10–€100 al cumplir condiciones (p. ej., serie de juego).\n\n<\/li>\n            <li>• \nCash drops en slots: premios rápidos de €200–€2 000 en franjas horarias seleccionadas.\n\n<\/li>\n            <li>• \nHappy hours en bar: 2×1 en cócteles o 20% de descuento al inicio de la tarde-noche.\n\n<\/li>\n\t    <li>• \nDías especiales de póker: añadido al prize pool de €1 000–€10 000 en una serie.\n\n<\/li>\n\t    <li>• \nSatélites y clasificatorios: buy-in desde €20–€50 para acceder a torneos mayores.\n\n<\/li>\n\t    <li>• \nCombos nocturnos: “snack + bebida” con 10–15% de descuento a partir de cierta hora.\n\n<\/li>\n\t    <li>• \nSemanas temáticas: menús y cócteles especiales, y detalle de €5–€20 en juego promocional.\n\n<\/li>\n\t    <li>• \nPremios por actividad en mesas: fichas promo de €10–€50 al alcanzar tiempo objetivo.\n<\/li>\n\t    <li>• \nFechas señaladas: welcome-drink o crédito promo de €5–€15 en días festivos.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\n Juegos populares en Casino Gran Vía — de la ruleta al póker\n<\/h3>\n\n<p>\nLa oferta de Casino Gran Vía se apoya en los juegos más reconocibles, valorados tanto por visitantes como por jugadores habituales. La ruleta suele sentirse como el “centro” de la noche: ritmo rápido, reglas claras y emoción constante. El blackjack añade estrategia y decisiones, por eso atrae a quienes prefieren controlar el juego. El bacará destaca por su sencillez y su estilo clásico, ideal cuando apetece un ritmo más calmado. La zona de póker crea una comunidad propia, donde importan torneos, mesas de cash y el componente social. Las slots ofrecen un formato libre: sesiones cortas, cambio de temática y juego a tu ritmo. Las opciones electrónicas reducen la barrera de entrada y permiten aprender sin esperar mesa disponible. Muchos clientes combinan: un tramo de slots para calentar, ruleta para la adrenalina y una pausa de bar para cerrar. Para principiantes es un recorrido cómodo, porque la experiencia se entiende rápido. Para jugadores con experiencia, el valor está en poder diseñar la noche alternando intensidad y descanso. Al final, el casino se vive como un espacio versátil para distintos estilos de juego.\n\n<\/p>\n<br>\n\n\n<ul>\n            <li>• \nRuleta (americana\/francesa): clásica, rondas rápidas y variedad de apuestas.\n\n<\/li>\n            <li>• \nBlackjack: decisiones y estrategia con gestión de riesgo.\n\n<\/li>\n            <li>• \nBaccarat \/ Punto Banco: formato sencillo, ritmo estable y tradición.\n\n<\/li>\n            <li>• \nPóker (Texas Hold’em, Omaha, etc.): torneos y cash games para perfil competitivo.\n\n<\/li>\n\t    <li>• \nMáquinas (Slots): amplia selección de temas, volatilidad y apuestas por giro.\n\n<\/li>\n\t    <li>• \nVideo póker: combinación de tragaperras y lógica de cartas.\n\n<\/li>\n\t    <li>• \nRuleta electrónica: ciclo rápido, ideal para familiarizarse con reglas.\n\n<\/li>\n\t    <li>• \nMesas electrónicas \/ i-tables: versión tecnológica con dinámica ágil.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nApuestas en Casino Gran Vía — mínimos y máximos por juego\n<\/h3>\n\n<p> \nLos rangos de apuesta en Casino Gran Vía dependen de la mesa concreta, la hora y la afluencia. Por la noche y en fin de semana los mínimos pueden subir por demanda, mientras que en franjas más tranquilas suelen aparecer opciones más accesibles. En zonas electrónicas los límites suelen ser más suaves, lo que facilita probar juegos sin presión. A continuación tienes referencias orientativas para planificar presupuesto.\n<\/p><br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#AE8C6A; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Juego<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Apuesta mínima<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Apuesta máxima<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Ruleta (mesa)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">€2 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">€500 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Ruleta electrónica<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">€0.50<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">€100<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">€10 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">€1 000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Baccarat \/ Punto Banco<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">€20 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> €2 000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Póker cash<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">ciegas €1\/€2<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">ciegas €10\/€20<\/td>\n                <\/tr>\n   <td style=\"border:1px solid #ccc; padding:8px;\">Torneos de póker<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">buy-in €50<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">buy-in €500<\/td>\n                <\/tr>\n   <td style=\"border:1px solid #ccc; padding:8px;\">Slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">€0.10\/giro<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">€10\/giro<\/td>\n                <\/tr>\n   <td style=\"border:1px solid #ccc; padding:8px;\">Video póker<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">€0.25<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">€5\/crédito<\/td>\n                <\/tr>\n   <td style=\"border:1px solid #ccc; padding:8px;\">Mesas electrónicas<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">€1<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">€200<\/td>\n                <\/tr>\n \n            <\/tbody>\n        <\/table><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEventos y ocio en Casino Gran Vía — música, shows y ambiente nocturno\n<\/h3>\n\n<p>\nCasino Gran Vía suele vivirse como un lugar donde la noche fluye sin esfuerzo: puedes empezar en el bar, pasar al juego y volver a la música y la conversación. La programación regular se concentra en horas tardías, cuando el centro está más vivo y el ambiente interior se vuelve más cercano al estilo club. En esas franjas es habitual encontrar sesiones con DJ o acompañamiento musical que marca ritmo sin resultar excesivo. Es ideal para quien busca noche, pero con comodidad y un entorno cuidado.\n\n<\/p>\n<br>\n\n\n<p>\nUna línea potente de actividad llega con el póker: días de torneo, series y formatos especiales crean un aire competitivo y atraen a una comunidad fiel. En esos periodos se refuerza la experiencia con detalles como consumiciones de bienvenida, pequeñas celebraciones tras finales y una noche más animada. Incluso si no juegas póker, el entorno resulta atractivo por la energía y la sensación de “gran noche”. Además, suele ser posible seguir momentos clave manteniendo una distancia cómoda.\n\n<\/p>\n<br>\n<p>\nOtro bloque lo forman los eventos privados y corporativos: el carácter histórico del edificio encaja con cenas cerradas, presentaciones, celebraciones y planes “llave en mano”. En estos casos se utilizan salas específicas, coctelería y una programación a medida. Esto convierte al casino en un espacio demandado cuando se busca ubicación central y un marco arquitectónico impactante. Para el invitado, se siente como una fiesta elegante con opción de añadir juego.\n\n<\/p>\n<br>\n<p>\nLa temporada también influye: semanas temáticas, noches festivas, elementos de show y acentos gastronómicos. En periodos de celebración el ambiente se vuelve más ceremonial, y la coctelería suele incorporar propuestas especiales y menús por pases. El resultado es un ocio integrado donde “música + cócteles + juego” forman un plan completo y flexible.\n\n<\/p>\n<br>\n\n\n<ul>\n            <li>• \nSesiones DJ y noches musicales: toque club en zonas de bar, sobre todo de noche.\n\n<\/li>\n            <li>• \nNoches temáticas: programas por temporada, festividades y momentos del calendario urbano.\n\n<\/li>\n            <li>• \nTorneos y series de póker: competición regular, finales y jornadas especiales.\n\n<\/li>\n            <li>• \nEmisión de deportes: partidos destacados en un entorno cómodo.\n\n<\/li>\n\t    <li>• \nExperiencias de coctelería: degustaciones, cartas de autor y servicios nocturnos.\n\n<\/li>\n            <li>• \nEventos privados: cumpleaños, empresa, cenas cerradas.\n\n<\/li>\n            <li>• \nEscenarios VIP: juego privado y atención personalizada bajo solicitud.\n\n<\/li>\n\t    <li>• \nEspacios fotogénicos: arquitectura e interiores como parte del plan.\n\n\n<\/li>\n        <\/ul><br>\n\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBares, restaurantes y descanso en Casino Gran Vía — gastronomía y comodidad\n<\/h3>\n\n<p>\nEl descanso en Casino Gran Vía se basa en una idea clara: una noche sin perder tiempo en desplazamientos. Puedes cenar, pasar al bar y volver al juego sin salir del complejo. La parte gastronómica es tan importante como el juego, porque el formato de casino urbano invita a estancias largas. Los espacios están pensados para alternar zonas más activas con rincones tranquilos: tras varias rondas, apetece parar y cambiar el ritmo. Esto es especialmente útil en grupos donde no todos quieren jugar al mismo nivel.\n\n<\/p>\n<br>\n\n\n<p>\nLa restauración suele orientarse a una cena más completa, con ambiente y buena presentación. Las barras aportan flexibilidad: coctelería, picoteo, pausas rápidas y un tono más nocturno. Para quienes buscan un punto temático, existe un formato de café\/restaurante con inspiración asiática que encaja bien a última hora. En conjunto, la gastronomía actúa como parte del ocio, no como un añadido.\n\n<\/p>\n<br>\n<p>\nEl hotel dentro del complejo hace el plan aún más cómodo: tras una noche intensa, no hay que pensar en el regreso, y al día siguiente se puede seguir con el itinerario urbano. Este esquema lo valoran viajeros y asistentes a eventos en el centro. La privacidad y el enfoque adulto del alojamiento ayudan a descansar sin romper el ritmo. Con una ubicación tan céntrica, el casino se convierte en un punto completo para tarde, noche y descanso.\n\n<\/p>\n<br>\n<p>\nSi buscas una experiencia “de sensaciones”, lo ideal es vivirlo como una secuencia: arquitectura, bar, cena, juego y vuelta al bar. Así se dosifican emociones y la noche se siente equilibrada. En grupos, cada uno encuentra su tempo: unos en mesas, otros conversando con una copa. Por eso el descanso aquí se percibe integrado y bien pensado.\n\n<\/p>\n<br>\n\n\n <ul>\n            <li>• \nRestaurante Círculo Mercantil: cena en ambiente elegante, foco en cocina y servicio.\n\n<\/li>\n            <li>• \nGolden View Bar: bar con sensación panorámica y energía del centro.\n\n<\/li>\n            <li>• \nBaccarat Cocktail Bar: coctelería para pausas entre sesiones de juego.\n\n<\/li>\n            <li>• \nPoker Room Bar: punto cómodo durante la agenda de póker.\n\n<\/li>\n\t    <li>• \nGran Café Shanghai: café\/restaurante con toques asiáticos para horarios tardíos.\n\n<\/li>\n\t    <li>• \nSnack Bar \/ picoteo rápido: paradas cortas sin cena larga.\n\n<\/li>\n\t    <li>• \nHotel Círculo Gran Vía: alojamiento en el mismo complejo para máxima comodidad.\n\n\n<\/li>\n        <\/ul><br>\n\n\n\n\n\n\n\n\n\n"
+            }
+        },
+        "faq": {
+            "title": "Preguntas frecuentes",
+            "items": [
+                {
+                    "title": "¿Hay que pagar entrada?",
+                    "answer": "En muchos casinos urbanos la entrada es gratuita, aunque en noches o eventos especiales puede haber condiciones distintas. Algunos actos pueden requerir registro o acceso específico.\n\n\n"
+                },
+                {
+                    "title": "¿Se puede reservar con antelación?",
+                    "answer": "Para cenas, eventos y ciertos formatos de póker, reservar suele ser lo más cómodo. Así se evita esperar en las horas más concurridas.\n\n\n"
+                },
+                {
+                    "title": "¿Es seguro llevar mucho efectivo?",
+                    "answer": "Lo más seguro es usar la caja y no portar grandes cantidades encima. En premios altos, conviene seguir el procedimiento interno y conservar justificantes.\n\n\n"
+                },
+                {
+                    "title": "¿Y si soy principiante?",
+                    "answer": "Lo más fácil es empezar por slots o juegos electrónicos y luego pasar a ruleta. El personal suele ayudar con dudas básicas y en mesa conviene observar el ritmo antes de apostar.\n\n\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1530",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Casino Gran Vía Madrid"
+        }
+    },
+    "langs": [
+        {
+            "code": "es-ES",
+            "name": "Испанский",
+            "isDefault": true
+        }
+    ]
+}

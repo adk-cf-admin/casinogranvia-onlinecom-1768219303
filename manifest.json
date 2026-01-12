@@ -1,0 +1,19 @@
+{
+  "name": "Casino Gran Vía Madrid",
+  "short_name": "Casino Gran Vía Madrid",
+  "theme_color": "",
+  "background_color": "#FFFFFF",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1768217137-webicon-cgv-512-100x100.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
